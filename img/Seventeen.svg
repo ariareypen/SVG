@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496.85 143.48">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MLingWaiMedium-SC-GBpc-EUC-H, 'LingWai SC';
+        font-size: 34px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        fill: #010101;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        font-family: Futura-Medium, Futura;
+        font-size: 75px;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(40.54 68.75)"><tspan x="0" y="0">Say the name!</tspan></text>
+  <text class="cls-2" transform="translate(0 111.9)"><tspan x="0" y="0">S</tspan><tspan class="cls-4" x="43.73" y="0">ev</tspan><tspan x="120.34" y="0">en</tspan><tspan class="cls-5" x="202.95" y="0">t</tspan><tspan x="224.12" y="0">een</tspan></text>
+  <g>
+    <polygon class="cls-3" points="412.67 143.48 396.43 115.02 445.35 30.19 461.59 58.66 412.67 143.48"/>
+    <polygon class="cls-3" points="382.3 28.24 398.93 0 496.85 .3 480.22 28.54 382.3 28.24"/>
+    <polygon class="cls-3" points="332.19 1.8 363.23 1.8 401.22 67.16 369.81 67.16 332.19 1.8"/>
+  </g>
+</svg>
